@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Peso e IMC</string>
+    <string name="textoSelecao">SELECIONE UMA OPÇÂO</string>
+    <string name="botaoPesoHomem">PESO IDEAL HOMEM</string>
+    <string name="botaoPesoMulher">PESO IDEAL MULHER</string>
+    <string name="botaoImc">CALCULAR IMC</string>
+    <string name="botaoSobre">SOBRE O APP</string>
+    <string name="textoAltura">Digite sua altura</string>
+    <string name="textoResultado">Resultado</string>
+    <string name="botaoCalcular">CALCULAR</string>
+    <string name="textoPeso">Digite seu peso</string>
+    <string name="textoFonte1">mdsaude.com</string>
+    <string name="textoFonte">Fonte das Fórmulas:</string>
+    <string name="textoTurma">Turma: Ciências da Computação</string>
+    <string name="textoMatricula">Matrícula: 20872955</string>
+    <string name="textoNome">Nome: Andrew Siquieri</string>
+</resources>
